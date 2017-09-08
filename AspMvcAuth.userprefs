@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{69C63610-E9D2-43E3-8903-38693A1687C6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspMvcAuth/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="AspMvcAuth/Controllers/AccountController.cs" Line="49" Column="66" />
+      <File FileName="AspMvcAuth/App_Start/Startup.cs" Line="17" Column="10" />
+      <File FileName="AspMvcAuth/Startup.cs" Line="16" Column="21" />
+      <File FileName="AspMvcAuth/App_Start/RouteConfig.cs" Line="1" Column="1" />
+      <File FileName="AspMvcAuth/App_Start/UnityConfig.cs" Line="23" Column="13" />
+      <File FileName="AspMvcAuth/App_Start/FilterConfig.cs" Line="1" Column="1" />
+      <File FileName="AspMvcAuth/App_Start/BundleConfig.cs" Line="1" Column="1" />
+      <File FileName="AspMvcAuth/Views/Account/Login.cshtml" Line="1" Column="1" />
+      <File FileName="AspMvcAuth/Models/LoginViewModel.cs" Line="9" Column="18" />
+      <File FileName="AspMvcAuth/Views/Shared/_LoginPartial.cshtml" Line="1" Column="1" />
+      <File FileName="AspMvcAuth/Web.config" Line="1" Column="1" />
+      <File FileName="AspMvcAuth/packages.config" Line="17" Column="40" />
+      <File FileName="AspMvcAuth/Project_Readme.html" Line="1" Column="1" />
+      <File FileName="AspMvcAuth/Repositories/Account.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/private/tmp/Simple-Authentication-ASP-MVC-5/AspMvcAuth/Controllers/AccountController.cs" relfile="AspMvcAuth/Controllers/AccountController.cs" line="58" column="50" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AspMvcAuth PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
